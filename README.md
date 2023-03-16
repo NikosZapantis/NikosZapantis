@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikoszapantis&label=Profile%20views&color=0e75b6&style=flat" alt="nikoszapantis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikoszapantis" alt="nikoszapantis" /></a> </p>
-
 - 🔭 I’m currently working on [Random-PasswordGenerator](https://github.com/NikosZapantis/Random-PasswordGenerator)
 
 - 🌱 I’m currently learning **Html, Javascript, Css**
