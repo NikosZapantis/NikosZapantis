@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikoszapantis&label=Profile%20views&color=0e75b6&style=flat" alt="nikoszapantis" /> </p>
 
-- 🔭 I’m currently working on [Random-PasswordGenerator](https://github.com/NikosZapantis/Random-PasswordGenerator)
+- 🔭 I’m currently working on [E-paraggelia](https://github.com/NikosZapantis/e-paraggelia)
 
 - 🌱 I’m currently learning **Html, Javascript, Css**
 
