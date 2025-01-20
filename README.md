@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [DS_crowdfunding](https://github.com/NikosZapantis/DS_crowdfunding)
 
-- 🌱 I’m currently learning **Html, Javascript, Css**
+- 🌱 I’m currently learning **Angular, Typescript (also Html, Javascript, CSS)**
 
 - 👯 I’m looking to collaborate on **UI design projects**
 
