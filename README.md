@@ -2,7 +2,7 @@
 🔭 I’m currently working on [DS_crowdfunding](https://github.com/NikosZapantis/DS_crowdfunding)<br><br>🌱 I’m currently learning **Angular, Typescript, .NET**<br><br>👯 I’m looking to collaborate on **UI design projects**<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nikos.zapantis/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20513319/nikos-zapantis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikos-zapantis-734175319/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nikos.zapantis/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20513319/nikos-zapantis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikos-zapantis-734175319/)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giannis00701@gmail.com) 
 
 # 💻 Tech Stack:
